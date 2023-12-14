@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\obj\Debug\net6.0\Expno01.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\obj\Debug\net6.0\Expno01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\obj\Debug\net6.0\Expno01.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\obj\Debug\net6.0\Expno01.AssemblyInfo.cs
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\obj\Debug\net6.0\Expno01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\bin\Debug\net6.0\Expno01.exe
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\bin\Debug\net6.0\Expno01.deps.json
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\bin\Debug\net6.0\Expno01.runtimeconfig.json
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\bin\Debug\net6.0\Expno01.dll
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\bin\Debug\net6.0\Expno01.pdb
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\obj\Debug\net6.0\Expno01.dll
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\obj\Debug\net6.0\refint\Expno01.dll
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\obj\Debug\net6.0\Expno01.pdb
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\obj\Debug\net6.0\Expno01.genruntimeconfig.cache
+C:\Users\DELL\Documents\Even 22-23\19AI308\Experiments\Expno01\Expno01\obj\Debug\net6.0\ref\Expno01.dll
